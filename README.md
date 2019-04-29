@@ -1,4 +1,4 @@
-# Matplotlib Meet up on October 29th 2018
+# Matplotlib Meet up on April 30th 2019
 
 Matplotlib is essentially the original plotting package for scientific computing in Python. Most plotting libraries in Python are based on it, so if you can Master matplotlib, the other libraries will just become easier to ways to costomize your plots. Matplotlib is the most customizable plotting library in Python but it can be tricky to learn. Thats why we are hosting this introduction to Matplotlib meetup. We will be learning how to creat graphs from numpy and pandas data and customizing the labels and colors etc...
 
