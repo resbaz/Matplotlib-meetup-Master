@@ -1,8 +1,8 @@
-# Matplotlib Meet up on April 30th 2019
+# Matplotlib Meet up on August 19th 2019
 
 Matplotlib is essentially the original plotting package for scientific computing in Python. Most plotting libraries in Python are based on it, so if you can Master matplotlib, the other libraries will just become easier to ways to costomize your plots. Matplotlib is the most customizable plotting library in Python but it can be tricky to learn. Thats why we are hosting this introduction to Matplotlib meetup. We will be learning how to creat graphs from numpy and pandas data and customizing the labels and colors etc...
 
-We will running this meetup from **4 pm to 7:30 pm** in the Colab in ERC 330 (across from the entrance to the Eastern Resource Center library) Note that access is limited by construction, and the best way to get to the ERC is to come from up from grattan street, walk in between the ERC and the Engineering building, and take a right on a blue painted path into the basemetn of our buliding, then use the stairs or elevator to get to level 3. 
+We will running this meetup from **4:00 pm to 8:00 pm** in the Colab in ERC 330 (across from the entrance to the Eastern Resource Center library) Note that access is limited by construction. See these links to help guide you: https://goo.gl/maps/XEoRevKESdr GIFs to get around construction : https://tinyurl.com/tram2colab, https://tinyurl.com/coffee2colab
 
 This workshop will be using Python 3.6 inside the Jupyter Notebook. You can find installation instructions inside the 
 [Python_Installation.md](https://github.com/resbaz/Sept2017_PandasWorkshop/blob/master/Python_installation.md)
